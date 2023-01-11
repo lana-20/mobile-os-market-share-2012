@@ -1,6 +1,6 @@
 # Mobile OS Market Share - A Decade Ago
 
-The challenges which mobile developers and QAs had to face [10 years ago](https://lana-20.github.io/mobile-os-market-share/).
+The challenges which mobile developers and QAs had to face [10 years ago](https://lana-20.github.io/mobile-os-market-share-2012/).
 
 If I travel back in time, for example, to a period of October-December 2012, the mobile market looked quite different:
 
