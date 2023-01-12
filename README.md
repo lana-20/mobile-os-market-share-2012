@@ -14,4 +14,6 @@ There were a lot of OSs to deal with, in addition to Android and iOS:
 
 I’d have to hire many different developers in case I wanted to develop a native application. This would cost me lots of time and money.
 
+____
 
+[Mobile OS Market Share - Today](https://github.com/lana-20/mobile-os-market-share-2022/blob/main/README.md)
